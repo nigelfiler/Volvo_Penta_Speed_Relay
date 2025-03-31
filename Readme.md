@@ -6,7 +6,7 @@ The document in this repository [**Testing Speed Relay**](./Testing_Speed_Relay.
 
 I hope you find this information helpful.  
 
-If you discover any **errors or missing details**, please let me know so I can update the document accordingly.  
+If you discover any errors or missing details please let me know so I can update the document accordingly.  
 
 ### 🎥 Video Demonstrations  
 Here are two videos demonstrating the **speed relay testing and repair process**:  

@@ -1,6 +1,6 @@
 ### KAD32 Engine Speed Relay Testing and Repair
 
-I own a boat equipped with **KAD32 engines**. After encountering a fault with the speed relay, I decided to investigate how to **repair and test** this component. 
+I own a boat equipped with **KAD32 engines**. After encountering a fault with the speed relay, I decided to investigate how to repair and test this component. 
 
 The document [**Testing Speed Relay**](./Testing_Speed_Relay.pdf) in this repository shares my findings and provides guidance on diagnosing and testing issues with this part. 
 

@@ -2,7 +2,8 @@
 
 I own a boat equipped with **KAD32 engines**. After encountering a fault with the speed relay, I decided to investigate how to repair and test this component. 
 
-The document [**Testing Speed Relay**](./Testing_Speed_Relay.pdf) in this repository shares my findings and provides guidance on diagnosing and testing issues with this part. Note: For some reason this PDF does not open correctly on some iphones. Only the cover page will be shown. If this occurs open the link on a PC or save the PDF to your device.
+The document [**Testing Speed Relay**](./Testing_Speed_Relay.pdf) in this repository shares my findings and provides guidance on diagnosing and testing issues with this part.  
+Note: For some reason this PDF does not open correctly on some iphones. Only the cover page will be shown. If this occurs open the link on a PC or save the PDF to your device.
 
 I hope you find this information helpful.  
 

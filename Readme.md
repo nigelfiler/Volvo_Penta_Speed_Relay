@@ -16,7 +16,7 @@ Here are two videos demonstrating the **speed relay testing and repair process**
 
 ### Test Board
 I designed a built a board to allow easy bench testing. This has inputs for a 12v supply and a signal generator.  
-[**Built Board**] (./Test_Board.png)
+[**Built Board**](./Test_Board.png)
 
 ##
 # ⚠️ Disclaimer  
@@ -27,4 +27,5 @@ Use this information at your own risk. I cannot guarantee its accuracy or applic
 Always follow manufacturer guidelines and consult a qualified marine technician if you are unsure about any repairs or procedures.
 
 **Do not contine to operate a Supercharger when there is an electrical fault, it will not fix itself and you are likely to cause further damage**.
+
 

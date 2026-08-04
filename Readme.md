@@ -19,6 +19,12 @@ I designed a built a board to allow easy bench testing. This has inputs for a 12
 [**Built Board**](./Test_Board.png)  
 [**PCB Layout**](./PCB-Layout.png)
 
+
+### Spare Parts
+I have stock of blank PCB's, the custom resistor array (The long thin component inside) and 2 part outer case.
+I can repair any fault, irrespective of how fire damaged the speed relay is.
+All relays are on a repair or exchange basis, I do not sell complete modules.
+
 ##
 # ⚠️ Disclaimer  
 I am a **hobbyist** with no affiliation or association with **Volvo Penta** or any of its subsidiaries. The information provided in this repository is based on my personal experience and observations while working on my own **KAD32 engines**.  
